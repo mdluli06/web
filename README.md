@@ -1,2 +1,2 @@
 # web
-pine city zoo website build
+This is website for the pine city zoo.
